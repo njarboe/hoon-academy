@@ -1,1 +1,1 @@
-Repository of hoon school.
+Repository for hoon school.
